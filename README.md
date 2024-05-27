@@ -1,8 +1,8 @@
 # Quién es Quién en los Precios
 ## Integrantes
-- Erwin Minor - 214601
-- Ximena Paz - 214570
-- Mariano Villafuerte - 156057
+- Erwin Minor
+- Ximena Paz
+- Mariano Villafuerte
 
 ## Objetivo
 Utilizar tecnologías de gran escala para analizar el dataset de Quién es Quién en los precios. 
